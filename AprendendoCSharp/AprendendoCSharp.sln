@@ -11,15 +11,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3-CriandoVariaveisPontoFlut
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "4-ConversoesEOutrosTiposNumericos", "4-ConversoesEOutrosTiposNumericos\4-ConversoesEOutrosTiposNumericos.csproj", "{372A20D7-5AAF-4095-9A76-AE421F09E8AE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{E12C1D4B-33E6-435F-B474-734A8E0C70B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "5-CaracteresETextos", "5-CaracteresETextos\5-CaracteresETextos.csproj", "{E12C1D4B-33E6-435F-B474-734A8E0C70B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6-AtribuicoesDeVariaveis", "6-AtribuicoesDeVariaveis\6-AtribuicoesDeVariaveis.csproj", "{EFC07EC1-B1C0-48EB-ABA7-AE67EB62220E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "6-AtribuicoesDeVariaveis", "6-AtribuicoesDeVariaveis\6-AtribuicoesDeVariaveis.csproj", "{EFC07EC1-B1C0-48EB-ABA7-AE67EB62220E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{E7E203B6-F3C9-4FBE-9321-7E8C7C564DEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "7-Condicionais", "7-Condicionais\7-Condicionais.csproj", "{E7E203B6-F3C9-4FBE-9321-7E8C7C564DEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{17422A2D-EA1E-4589-9CF3-33B0F6F55CA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "8-Condicionais2", "8-Condicionais2\8-Condicionais2.csproj", "{17422A2D-EA1E-4589-9CF3-33B0F6F55CA6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{3BCEEA15-6E91-41AC-8D77-0190C01D86E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "9-Escopo", "9-Escopo\9-Escopo.csproj", "{3BCEEA15-6E91-41AC-8D77-0190C01D86E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AliquotaComIfs", "AliquotaComIfs\AliquotaComIfs.csproj", "{D3D4DB74-89DD-4A17-8AC9-5565307A4EDE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{3BCEEA15-6E91-41AC-8D77-0190C01D86E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BCEEA15-6E91-41AC-8D77-0190C01D86E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BCEEA15-6E91-41AC-8D77-0190C01D86E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3D4DB74-89DD-4A17-8AC9-5565307A4EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3D4DB74-89DD-4A17-8AC9-5565307A4EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3D4DB74-89DD-4A17-8AC9-5565307A4EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3D4DB74-89DD-4A17-8AC9-5565307A4EDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
