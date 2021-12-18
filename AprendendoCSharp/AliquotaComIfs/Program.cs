@@ -1,5 +1,5 @@
 ﻿
-double salario = 4000;
+double salario = 3300;
 
 if (salario >= 1900.0 && salario <= 2800.0)
 {
